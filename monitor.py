@@ -11,14 +11,14 @@ import datetime
 
 
 
-one = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/one.wav"
-two = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/two.wav"
-three = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/three.wav"
-four = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/four.wav"
-five = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/five.wav"
-six = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/six.wav"
-seven = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/seven.wav"
-eight = "C:/Users/admin/PycharmProjects/Hack U/pysimpleGUI_sample/my/eight.wav"
+one = "one.wav"
+two = "two.wav"
+three = "three.wav"
+four = "four.wav"
+five = "five.wav"
+six = "six.wav"
+seven = "seven.wav"
+eight = "eight.wav"
 onsei = [one, two, three, four,five, six, seven, eight]
 
 def timer(h, m):
